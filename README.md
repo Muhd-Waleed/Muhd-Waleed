@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/muhd-waleed/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Muhammad Waleed Waseem. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hello there! My name is Muhd. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">I'm Hardware/Software Co-Design Engineer </p>
 
 ### 💻 Languages and Tools: 
